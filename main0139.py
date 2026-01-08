@@ -9,7 +9,7 @@ def login(user, password):
     correct_password = "1234"
 
     if user == correct_user and password == correct_password:
-        print("Login successful been student")
+        print("Login successful must be a student")
     else:
         print("Login failed")
 register("admin")
