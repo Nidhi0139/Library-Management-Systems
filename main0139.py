@@ -1,5 +1,5 @@
 def register(name):
-    print(f"(name) has been registered.")
+    print(f"(name) has been not been registered.")
 
 
 #Login Feature code
